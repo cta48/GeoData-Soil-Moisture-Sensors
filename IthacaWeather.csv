@@ -1,4 +1,4 @@
-Date,Parcipitation,Snowfall,Date,Max Temp,Min Temp,Avg Temp,Avg Temp Drop,HDD,CDD,Percipitation,Snow Fall,Snow Depth
+Date,Precipitation,Snowfall,Date,Max Temp,Min Temp,Avg Temp,Avg Temp Drop,HDD,CDD,Precipitation,Snow Fall,Snow Depth
 2025-05-01,0,0,2025-05-01,56,35,45.5,-5.1,19,0,0,0,0
 2025-05-02,0.27,M,2025-05-02,76,44,60,9,5,0,0.24,0,0
 2025-05-03,0.1,M,2025-05-03,74,47,60.5,9.1,4,0,0.2,0,0
